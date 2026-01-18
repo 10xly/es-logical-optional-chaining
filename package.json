@@ -1,0 +1,35 @@
+{
+  "name": "es-logical-optional-chaining",
+  "version": "1.0.0",
+  "description": "Optional chaining operator",
+  "keywords": [
+    "10xly"
+  ],
+  "homepage": "https://github.com/10xly/es-logical-optional-chaining#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/es-logical-optional-chaining/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/es-logical-optional-chaining.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "array-reduce-x": "^2.1.0",
+    "construct-new-second": "^1.0.0",
+    "important-extremely-useful-classes": "^3.1.0",
+    "is-": "^1.0.0",
+    "undefined-is-a-function": "^0.1.0",
+    "yanoop": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5"
+  }
+}
